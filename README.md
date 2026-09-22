@@ -1,5 +1,8 @@
 # Mini TP — Kiosco: un catálogo con compras
 
+# Intregrantes: Tiago Guillot - ; Facundo Chacon - ; Joaquin Mendez - ; Giovanna Suarez - ; Gaston Puente - .
+
+
 Integrador de los capítulos 1 a 3 de Programación III (TUP · UTN FRM):
 fundamentos de FastAPI / ASGI, contratos con Pydantic y ejecución asincrónica.
 Un único dominio (Producto) en memoria: sin base de datos, sin auth y sin Redis.
